@@ -9,7 +9,6 @@ const getAddress = async addressData => {
     };
     const addressResponse = await requestPromise(options)
       .then(response => {
-          console.log(response);
         return response;
       })
       .catch(function(error) {

@@ -5,8 +5,6 @@ export interface ValidateInputsResponse {
 }
 
 export function validateInputs(address: string): ValidateInputsResponse {
-    console.log('address');
-    console.log(address);
     let response: ValidateInputsResponse = {
         validCode: 200,
         errorMessage: "",
