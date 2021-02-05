@@ -32,7 +32,7 @@ git clone https://github.com/allalla73/network-coverage.git
 Install all the related dependencies for the project
 
 ```
-cd code-coverage
+cd network-coverage
 npm install
 ```
 
