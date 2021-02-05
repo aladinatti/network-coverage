@@ -25,7 +25,7 @@ To start development you'll need to do the following.
 Download the repository 
 
 ```
-mkdir code-coverage
+mkdir network-coverage
 git clone https://github.com/allalla73/network-coverage.git
 ```
 
